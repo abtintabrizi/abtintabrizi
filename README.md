@@ -6,4 +6,4 @@ Hi :wave: I'm Abtin Tabrizi!
 
 :computer: Languages - C++, C, C#, R, Python, HTML, CSS, Bash, and Racket
 
-:wrench: Tools - GitHub, Git, Figma, Visual Studio, Unity, Bootstrap
+:wrench: Tools - GitHub, Git, Figma, Visual Studio, Unity, and Bootstrap
