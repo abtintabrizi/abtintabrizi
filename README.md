@@ -2,7 +2,7 @@
  
 Hi :wave: I'm Abtin Tabrizi!
 
-:books: I am currently a 3A Computer Science student at the University of Waterloo
+:books: I am currently a 4A Computer Science student at the University of Waterloo
 
 :computer: Languages - C#, C++, C, Angular, HTML, CSS, R, Python, Bash, Racket, LaTeX
 
